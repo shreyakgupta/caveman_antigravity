@@ -28,5 +28,13 @@ Revert to professional, full-sentence responses by saying **"stop caveman"** or 
 
 To integrate this into your environment, add the contents of `RULE.md` to your system instructions or project-specific rule files.
 
+- To create a global rule in Antigravity, select the 3 dots in Agent View (Right top)
+- Select Customization
+- Select (+ Global) to add a global rule
+- enter the contents from GEMINI.md to the newly created GEMINI.md
+- Save and Close
+
+- In any active workspace, type "Caveman Mode on" to enable caveman mode
+
 ---
-*Powered by the core philosophy: "Why use many token when few token do trick?"*
+*Powered by the core philosophy: "Why use many token when few token do trick?" by juliusbrussee*
